@@ -9,12 +9,8 @@
 
 👤 **Raí Vieira Adriano**
 
-* Website: https://www.linkedin.com/in/luizcarlosrochacorrea/
-* Github: [@luizkrlz](https://github.com/luizkrlz)
-
-## APP
-
-![App](video.gif)
+* Website: https://www.linkedin.com/in/raivieiraadriano/
+* Github: [@raivieiraadriano92](http://github.com/raivieiraadriano92/)
 
 ## Screenshots
 
