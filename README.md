@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Trekr iOS APP 👋</h1>
+<h1 align="center">Trekr iOS APP 👋</h1>
 
 Thanks to [Paul Hudson](https://github.com/twostraws)
 
