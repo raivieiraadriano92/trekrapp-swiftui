@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Trekr iOS APP 👋</h1>
 
-Thanks to [Paul Hudson](https://github.com/twostraws)
-You can to watch the complete video [here](https://www.youtube.com/watch?v=aP-SQXTtWhY&ab_channel=PaulHudson)
+> Thanks to [Paul Hudson](https://github.com/twostraws)
+> You can watch the full video [here](https://www.youtube.com/watch?v=aP-SQXTtWhY&ab_channel=PaulHudson)
 
 ## Screenshots
 
